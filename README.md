@@ -20,7 +20,7 @@ The main code is the project 'ArithmeticParsing'.
 The program required the name of a file with its path as an input.It could be provided as an argument. Alternatively, if not provided, the program will ask for it within the console window.
 
 The file should be a csv or a text file with one arithmetic expression per line to be evaluated.
-The output is displayed directly in the console window as "<expression> = <answer>".
+The output is displayed directly in the console window as "expression = answer".
 
 #License
 Distributed under the MIT License. See LICENSE.txt for more information.
