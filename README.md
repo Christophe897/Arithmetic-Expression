@@ -1,12 +1,12 @@
 # Arithmetic-Expression
-This repository contains working code to evaluate an arithmetic expression.
-The expression supports the operators +, -, *, / and the grouping (), [] and {}.
-For exemple the expression "1 + 2*3 " will return the answer 7.
+This repository contains a working code to evaluate arithmetic expressions.
+The code supports the operators +, -, *, / and the grouping (), [] and {}.
+For example the expression "1 + 2*3 " will return the answer 7.
 
 #Getting Started
-Prerequisites
+#Prerequisites
 The project has been developed in c# with Visual Studio 2019 for Mac.
-It requires the package Nunit (3.13.3) for the unit tests.
+It requires the package Nunit (3.13.3).
 
 #Installation
 - Clone this repository
