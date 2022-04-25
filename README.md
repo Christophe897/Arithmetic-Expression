@@ -1,30 +1,31 @@
 # Arithmetic-Expression
-To evaluate an arithmetic expression
+This repository contains working code to evaluate an arithmetic expression.
+The expression supports the operators +, -, *, / and the grouping (), [] and {}.
+For exemple the expression "1 + 2*3 " will return the answer 7.
 
-
-Getting Started
+#Getting Started
 Prerequisites
-...
+The project has been developed in c# with Visual Studio 2019 for Mac.
+It requires the package Nunit (3.13.3) for the unit tests.
 
-Installation
-...
+#Installation
+- Clone this repository
+- Open the project master 'ProjectCS.sln'
+- Build the 2 projects 'ArithmeticParsing' and 'ArithmeticParsingTest'.
+- Run the 'ArithmeticParsingTest' project to check that all unit tests are successful.
 
-Usage
-...
+#Usage
+The main code is the project 'ArithmeticParsing'.
 
-Roadmap
-...
+The program required the name of a file with its path as an input.It could be provided as an argument. Alternatively, if not provided, the program will ask for it within the console window.
 
-Contributing
-...
+The file should be a csv or a text file with one arithmetic expression per line to be evaluated.
+The output is displayed directly in the console window as "<expression> = <answer>".
 
-License
-
+#License
 Distributed under the MIT License. See LICENSE.txt for more information.
 
-Contact
-
+#Contact
 Christophe Le Lannou- lelannou@talktalk.net
 
 Project Link: https://github.com/Christophe897/Arithmetic-Expression.git
-
