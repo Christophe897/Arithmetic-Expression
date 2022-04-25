@@ -1,8 +1,5 @@
 ﻿using System;
 using NUnit.Framework;
-using Xamarin.UITest;
-using Xamarin.UITest.iOS;
-using Xamarin.UITest.Queries;
 using ArithmeticParsing.Properties.Parsing;
 
 namespace ArithmeticParsingTest
