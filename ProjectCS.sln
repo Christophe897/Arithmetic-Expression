@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticParsing", "ArithmeticParsing\ArithmeticParsing.csproj", "{E5D4395E-E594-4324-9881-8625D4834C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticParsingTest", "ArithmeticParsingTest\ArithmeticParsingTest.csproj", "{781D9DF1-18ED-46BE-9E4C-6CC46DB526C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5D4395E-E594-4324-9881-8625D4834C16}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E5D4395E-E594-4324-9881-8625D4834C16}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E5D4395E-E594-4324-9881-8625D4834C16}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E5D4395E-E594-4324-9881-8625D4834C16}.Release|anycpu.Build.0 = Release|anycpu
+		{781D9DF1-18ED-46BE-9E4C-6CC46DB526C1}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{781D9DF1-18ED-46BE-9E4C-6CC46DB526C1}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{781D9DF1-18ED-46BE-9E4C-6CC46DB526C1}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{781D9DF1-18ED-46BE-9E4C-6CC46DB526C1}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7483663F-B3CE-4AE7-92DA-E90AA0FD46BD}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.scope = text/plain
+		$0.StandardHeader = $5
+		$0.VersionControlPolicy = $6
+	EndGlobalSection
+EndGlobal
