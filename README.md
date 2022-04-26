@@ -1,7 +1,7 @@
 # Arithmetic-Expression
 This repository contains a working code to evaluate arithmetic expressions.
-The code supports the operators +, -, *, / and the grouping (), [] and {}.
-For example the expression "1 + 2*3 " will return the answer 7.
+The code supports the operators +, -, /*, / and the grouping (), [] and {}.
+For example the expression "1 + 2 /* 3 " will return the answer 7.
 
 #Getting Started
 #Prerequisites
